@@ -1,0 +1,10 @@
+mkdir - tworzy nowy folder
+cd ścieżka - przenosi do folderu o sciezce xxx
+cd .. - cofa do poprzedniego folderu
+cd - cofa do katalogu głównego
+pwd - wyswietla scieżkę obecnej lokalizacji
+ls - wyswietla liste elementów w obecnej lokalizacji
+ls -la - wyswietla jak ls ale z góry na dół
+rm - usuwa plik
+rm -r - usuwa folder
+cp plik_1 plik_2 - klonuje plik_1 i tworzy identyczny o nazwie plik_2
