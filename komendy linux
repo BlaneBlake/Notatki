@@ -11,3 +11,4 @@ cp plik_1 plik_2 - klonuje plik_1 i tworzy identyczny o nazwie plik_2
 clear - czyści konsolę
 mv plik_1 plik_2 katalog_1 - przenosi plik_1 i plik_2 do folderu katalog_1
 mv nazwa_pliku nowa_nazwa_pliku - zmiania nazwa_pliku/latalogu na nową
+python3 nazwa_pliku.py > nazwa_pliku - zapisuje wynik działąnia pliku .py w innym pliku
