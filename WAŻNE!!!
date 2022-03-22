@@ -1,0 +1,4 @@
+jeśli biblioteka ma działać nie tylko na serwerze lokalnie, ale będzie też pobierana na stronę flagi to przed jej instalacją koniecznie odpal środowisko flagi:
+
+source flagaenv/bin/activate
+pip3 install nazwa_biblioteki
